@@ -2,5 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     val views = arrayOf(8, 6, 9, 7, 5)
+    //////dfsdf
     println(views.sum())
 }
